@@ -793,6 +793,11 @@
             
               
                 <div class="tweet">
+                  よだれが。。。🤤  <span class="link">t.co/GuKhlfUA9a</span> 
+                  <div class="date">Mon, 18 Jan 2021 05:59:22 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   あっ、避難コマンド（強制デプロイ停止）入れてない。
                   <div class="date">Mon, 18 Jan 2021 05:29:39 GMT</div>
                 </div>
@@ -810,11 +815,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@Zari_Wari</span> : What the fuck is this ad for a goddamn grocery store  <span class="link">t.co/48YZBDib3L</span> 
                   <div class="date">Mon, 18 Jan 2021 05:18:58 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  あー、リモートでデプロイしたら普通になった。  <span class="link">t.co/RWtqSkiEZp</span> 
-                  <div class="date">Mon, 18 Jan 2021 05:17:58 GMT</div>
                 </div>
               
             
@@ -1799,7 +1799,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Mon, 18 Jan 2021 05:47:56 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Mon, 18 Jan 2021 06:42:42 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
