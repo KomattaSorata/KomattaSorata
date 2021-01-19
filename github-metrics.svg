@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="950" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="973" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,6 +793,16 @@
             
               
                 <div class="tweet">
+                  RT  <span class="mention">@katurahama_aq</span> : 昨日館長が夕礼の終わりに言った「しっかりご飯を食べて、ちゃんと寝て、いっぱい笑ってください」って言葉がずーっと心に刺さって涙が止まらん。生きよう。いのちの分まで。  <span class="link">t.co/GMxeqMfk9M</span> 
+                  <div class="date">Tue, 19 Jan 2021 09:14:28 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@pepekekeko</span> : ｸ・・・こんなの・・・ッ❤  <span class="link">t.co/hxVJ0CY2UM</span> 
+                  <div class="date">Tue, 19 Jan 2021 09:12:53 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   This is perhaps my favorite UI among the QR payment apps out there, even just with that mockup.  <span class="link">t.co/tLGacOvfun</span> 
                   <div class="date">Tue, 19 Jan 2021 07:23:10 GMT</div>
                 </div>
@@ -805,16 +815,6 @@
                 <div class="tweet">
                   Blenderを起動しました。<br />Blenderを終了しました。
                   <div class="date">Tue, 19 Jan 2021 06:34:09 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  Baba is me.
-                  <div class="date">Tue, 19 Jan 2021 06:20:22 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  あれえええええええ？12月の時にあっちこっち予約探していたのに１１月の時もう既に予約したんだ。。。ｗ  <span class="link">t.co/snQnbw3rb4</span> 
-                  <div class="date">Tue, 19 Jan 2021 06:10:03 GMT</div>
                 </div>
               
             
@@ -1804,7 +1804,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Tue, 19 Jan 2021 08:47:17 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Tue, 19 Jan 2021 09:50:38 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
