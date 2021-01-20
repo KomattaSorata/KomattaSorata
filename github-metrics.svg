@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1023" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="941" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,28 +793,28 @@
             
               
                 <div class="tweet">
-                  It's like cheering for a sport team without knowing the sport just because you don't like the other team.
-                  <div class="date">Wed, 20 Jan 2021 15:14:08 GMT</div>
+                  意外とあんまり寒くない
+                  <div class="date">Wed, 20 Jan 2021 23:21:47 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  自分の中で一番引っかかったのは多分今日「おめでとう」より「さよなら」が多いってことかな。
-                  <div class="date">Wed, 20 Jan 2021 15:12:56 GMT</div>
+                  二度、Tシャツとパーカーで家から出たぼく。
+                  <div class="date">Wed, 20 Jan 2021 23:21:36 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  非国民だからとくにいうことでもないけど、二ヶ月くらいずっとTLが実際に投票していた国民がこういうツイートばかりだから、やっと一段落ち着いたところで。。。
-                  <div class="date">Wed, 20 Jan 2021 15:11:26 GMT</div>
+                  実は例のゲーム、作っています。
+                  <div class="date">Wed, 20 Jan 2021 23:14:03 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  政治の話は特にしないとはいえ気にしてないわけでもない。あの方が嫌われているだからその相手が選ばれることになった、後者を支持するわけではなくただ現状をいやと思って勢いの決定で、しかもメディアまで力入れてそれを成し遂げたという。すぐ後悔するだろう。
-                  <div class="date">Wed, 20 Jan 2021 15:10:07 GMT</div>
+                  RT  <span class="mention">@chunithm</span> : 本日より『CHUNITHM PARADISE』が稼働となります。バージョンアップされたばかりの店舗では一時的に更新日が表示されていない場合がございます。お手数ですがプレイの際は更新日をご確認の上、プレイいただくようお願い致します。 https://t…
+                  <div class="date">Wed, 20 Jan 2021 23:03:38 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  RT  <span class="mention">@SpaceX</span> : Deployment of 60 Starlink satellites confirmed  <span class="link">t.co/XrHInb3aYT</span> 
-                  <div class="date">Wed, 20 Jan 2021 15:07:05 GMT</div>
+                  RT  <span class="mention">@k_r_r_l_l_</span> : ぼくに任せてッ！  <span class="link">t.co/Ij9mDURr2i</span> 
+                  <div class="date">Wed, 20 Jan 2021 23:03:02 GMT</div>
                 </div>
               
             
@@ -1809,7 +1809,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Wed, 20 Jan 2021 22:35:00 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Wed, 20 Jan 2021 23:42:27 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
