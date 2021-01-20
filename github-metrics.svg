@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="938" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="995" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,6 +793,11 @@
             
               
                 <div class="tweet">
+                  RT  <span class="mention">@chunithm</span> : 【1/21(木)「プロジェクトセカイ カラフルステージ！ feat.初音ミク」イベント開催！】<br />1月21日(木)からイベントマップ登場！「ワンダーランズ×ショウタイム」のキャラクター達のゲットや、セカイver.の楽曲「セカイはまだ始まってすらいない」…
+                  <div class="date">Wed, 20 Jan 2021 13:29:13 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   RT  <span class="mention">@purin_sanrio</span> : やってみたかった雪中キャンプ、みんなもおいで～♪ この季節だけのかまくらテントで、あったかい灯りに包まれよう♡  <span class="link">t.co/ra3Bc2M5kJ</span> 
                   <div class="date">Wed, 20 Jan 2021 09:06:20 GMT</div>
                 </div>
@@ -810,11 +815,6 @@
                 <div class="tweet">
                   プッシュした、寝る。  <span class="link">t.co/3I7z5TlqPt</span> 
                   <div class="date">Wed, 20 Jan 2021 08:52:43 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  次は特定の方が特定の言葉で魔法の画像を送るような機能を実装する予定です。
-                  <div class="date">Wed, 20 Jan 2021 07:05:16 GMT</div>
                 </div>
               
             
@@ -1809,7 +1809,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Wed, 20 Jan 2021 12:43:19 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Wed, 20 Jan 2021 13:54:50 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
