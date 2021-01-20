@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="979" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="931" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,6 +793,21 @@
             
               
                 <div class="tweet">
+                  The glue on the silicon gasket is kinda disintegrating. The cover is not falling out but it’s kinda annoying to see it catching on the dust and just sticking there...  <span class="hashtag">#ValveIndex</span>   <span class="link">t.co/xf2FavhJfd</span> 
+                  <div class="date">Wed, 20 Jan 2021 06:30:13 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  接着剤が溶けでる。。。  <span class="link">t.co/3ROwZptlRV</span> 
+                  <div class="date">Wed, 20 Jan 2021 06:28:16 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@LaLN_P</span> : シュクメルリ美味しすぎてしゅきめるり.....って感じ
+                  <div class="date">Wed, 20 Jan 2021 06:21:02 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   RT  <span class="mention">@kentax</span> : リスナーさんやファンの人に寝ろって言う圧の強いフリー素材です。睡眠は大事ですよ！！  <span class="link">t.co/j1GvgWtmKw</span> 
                   <div class="date">Wed, 20 Jan 2021 04:15:49 GMT</div>
                 </div>
@@ -800,21 +815,6 @@
                 <div class="tweet">
                   おおおおおおおおおおおおおお  <span class="link">t.co/dHQrx3RhXA</span> 
                   <div class="date">Wed, 20 Jan 2021 03:11:03 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@performai</span> : 【ゲキチュウマイ×プロジェクトセカイ 三大コラボ開催！】<br />『プロジェクトセカイ カラフルステージ！ feat.初音ミク』と、『オンゲキ』『maimai でらっくす』『CHUNITHM』とのコラボイベントが開催決定！！1月21日(木)より、全てのタイ…
-                  <div class="date">Wed, 20 Jan 2021 03:10:58 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  手が。。。感じない
-                  <div class="date">Wed, 20 Jan 2021 03:08:46 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  さむい
-                  <div class="date">Wed, 20 Jan 2021 03:08:32 GMT</div>
                 </div>
               
             
@@ -1809,7 +1809,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Wed, 20 Jan 2021 05:51:49 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Wed, 20 Jan 2021 06:46:42 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
