@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1055" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="941" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,28 +793,28 @@
             
               
                 <div class="tweet">
-                   <span class="mention">@terunyarrrrr</span>   <span class="mention">@NATU_VRC</span>  てるにゃ・クリストファー・コロンブスｗ  <span class="link">t.co/3G4IXHNKFA</span> 
-                  <div class="date">Thu, 21 Jan 2021 07:11:10 GMT</div>
+                  えらいボットは現在11個のコマンドが実装されて、そのうち二つが表記違いの同じものです。日本語読み上げ機能も実装予定だけどいろんな面でバグと問題が多い
+                  <div class="date">Thu, 21 Jan 2021 08:39:24 GMT</div>
                 </div>
               
                 <div class="tweet">
-                   <span class="mention">@terunyarrrrr</span>   <span class="mention">@NATU_VRC</span>  反応はやっｗ
-                  <div class="date">Thu, 21 Jan 2021 07:07:27 GMT</div>
+                  飯作りたいけど動きたくない（怠惰）（疲れ）
+                  <div class="date">Thu, 21 Jan 2021 08:37:18 GMT</div>
                 </div>
               
                 <div class="tweet">
-                   <span class="mention">@NATU_VRC</span>   <span class="mention">@terunyarrrrr</span>  ここでてるにゃに朗報、<br /><br />実は、<br /><br />えらいボットに、<br /><br />ぱぱの、<br /><br />ガチャが実装されています（特に演出とかはないけど）
-                  <div class="date">Thu, 21 Jan 2021 07:06:46 GMT</div>
+                  意外といろんな国家試験があるので、資格を取る目当てではないけど、いくつの分野について学びたいのはある。例えば、色彩検定とか
+                  <div class="date">Thu, 21 Jan 2021 08:36:16 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  wwwwwwwwwwww  <span class="link">t.co/zQRKH94Mp7</span> 
-                  <div class="date">Thu, 21 Jan 2021 06:39:50 GMT</div>
+                  資格試験とか受けようか（勉強が遊びという。。。）
+                  <div class="date">Thu, 21 Jan 2021 08:35:22 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  あああああ、ソロチームはダメなのか。<br />だれが、だれがーーーかまって((  <span class="link">t.co/WlfdQ3Qgx6</span> 
-                  <div class="date">Thu, 21 Jan 2021 06:33:48 GMT</div>
+                  とはいえ、実際やることない、実家へ帰らないし。。。うん。。。
+                  <div class="date">Thu, 21 Jan 2021 08:34:49 GMT</div>
                 </div>
               
             
@@ -1814,7 +1814,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Thu, 21 Jan 2021 07:51:36 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Thu, 21 Jan 2021 08:47:54 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
