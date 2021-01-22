@@ -793,6 +793,11 @@
             
               
                 <div class="tweet">
+                  おきた
+                  <div class="date">Fri, 22 Jan 2021 06:40:14 GMT</div>
+                </div>
+              
+                <div class="tweet">
                    <span class="hashtag">#触ってきたぜチュウニズムPARADISE</span> <br />新しいUIテーマ結構すき、けどプレイ中頂部中央のMax ComboとScoreの数字はちょっと。。。違和感が
                   <div class="date">Fri, 22 Jan 2021 03:39:20 GMT</div>
                 </div>
@@ -810,11 +815,6 @@
                 <div class="tweet">
                   真っ白ないいなあああ  <span class="link">t.co/Agvsq5nzPm</span> 
                   <div class="date">Fri, 22 Jan 2021 03:28:21 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@Kritter_sub</span> : 交尾シーズンです <span class="link">t.co/wW8yCDKB2D</span> 
-                  <div class="date">Fri, 22 Jan 2021 03:27:33 GMT</div>
                 </div>
               
             
@@ -1784,7 +1784,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Fri, 22 Jan 2021 05:50:49 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Fri, 22 Jan 2021 06:44:39 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
