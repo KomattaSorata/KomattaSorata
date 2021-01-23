@@ -793,6 +793,16 @@
             
               
                 <div class="tweet">
+                  頻繁に5分タイムアウトするの。。？めっちゃ時間かかるな。。。
+                  <div class="date">Sat, 23 Jan 2021 20:25:25 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  起きた、メモリーチェック始まる
+                  <div class="date">Sat, 23 Jan 2021 20:24:29 GMT</div>
+                </div>
+              
+                <div class="tweet">
                    <span class="hashtag">#オオヌエプラント交流会</span> <br />（フェルガくんがいっぱいで幸せです。）<br />久々（数ヶ月？）VR被って入った、みんなのアバターを見て僕も新しいフェルガくんを作たくなった。<br />あと初めてVerticalFlip同士が遭遇した（かっこいい）  <span class="link">t.co/n7iGpQVpXv</span> 
                   <div class="date">Sat, 23 Jan 2021 15:30:00 GMT</div>
                 </div>
@@ -805,16 +815,6 @@
                 <div class="tweet">
                   なによりさっき一回落ちたらExplorerの設定やSteamの認証キャッシュも全部飛んだから。。。あやしい
                   <div class="date">Sat, 23 Jan 2021 14:24:43 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  Kernalに不正な動作がされてるの可能性も。。。
-                  <div class="date">Sat, 23 Jan 2021 14:23:51 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  メモリが壊れていると思うけど心当たりはない
-                  <div class="date">Sat, 23 Jan 2021 14:23:17 GMT</div>
                 </div>
               
             
@@ -1789,7 +1789,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Sat, 23 Jan 2021 19:49:55 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sat, 23 Jan 2021 20:38:04 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
