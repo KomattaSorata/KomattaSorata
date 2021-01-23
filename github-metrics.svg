@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="957" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="985" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,28 +793,28 @@
             
               
                 <div class="tweet">
-                  昨日あるモデルの作者さんと会って（会えると思わなかった）、僕の中でまさに理想な「クリエイターさん」のイメージでした。
-                  <div class="date">Sat, 23 Jan 2021 22:33:46 GMT</div>
+                   <span class="mention">@mirrorsflash</span>  正直、ほC。<br />今8ニ枚と16ニ枚だから微妙w
+                  <div class="date">Sat, 23 Jan 2021 23:37:34 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  4枚も無事だったら次は何するかな(つД`)ノ<br /><br />（まだ一枚目だけど）
-                  <div class="date">Sat, 23 Jan 2021 21:13:07 GMT</div>
+                  RT  <span class="mention">@pkb5648</span> : バルーンアート「大腸」  <span class="link">t.co/1DsOCA9mQ6</span> 
+                  <div class="date">Sat, 23 Jan 2021 23:35:46 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  メモリー一枚のチェックは1時間以上かかってるから正直そのうちの一枚がエラーを吐いて欲しい。
-                  <div class="date">Sat, 23 Jan 2021 21:12:35 GMT</div>
+                  RT  <span class="mention">@giallo_scimmia</span> : リラックマの型でホットケーキ焼いたんだけど…<br /><br />なにこの焼死体…  <span class="link">t.co/NCnngrCcsy</span> 
+                  <div class="date">Sat, 23 Jan 2021 23:34:49 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  頻繁に5分タイムアウトするの。。？めっちゃ時間かかるな。。。
-                  <div class="date">Sat, 23 Jan 2021 20:25:25 GMT</div>
+                   <span class="mention">@mirrorsflash</span>  メモリー関係のブルスクが頻発で、けどメモリー4枚チェックしても問題なかった。多分Kernalが何がを入れられたかも（まだ手術途中）
+                  <div class="date">Sat, 23 Jan 2021 23:34:05 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  起きた、メモリーチェック始まる
-                  <div class="date">Sat, 23 Jan 2021 20:24:29 GMT</div>
+                  It just came in my mind. What if, we let a new born baby, watch gameplay and play games (or limit it in one title), than it is like... training an AI to do it...? Nvm, that sounds terrible.
+                  <div class="date">Sat, 23 Jan 2021 23:29:26 GMT</div>
                 </div>
               
             
@@ -1789,7 +1789,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Sat, 23 Jan 2021 22:35:05 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sat, 23 Jan 2021 23:41:18 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
