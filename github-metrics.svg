@@ -793,6 +793,11 @@
             
               
                 <div class="tweet">
+                  RT  <span class="mention">@k_r_r_l_l_</span> : 休日の嗜み  <span class="link">t.co/dLegviORpL</span> 
+                  <div class="date">Sat, 23 Jan 2021 01:36:19 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   メモ　箱ティッシュ　リプトンのティー　カニカマ　肉　(？)
                   <div class="date">Sat, 23 Jan 2021 00:35:22 GMT</div>
                 </div>
@@ -810,11 +815,6 @@
                 <div class="tweet">
                   初めてCOMPを飲んでみた、一食目は水で割ったけど、Huelのような粉感がなく、かなり滑らか。ネットで調べたところでいろんな飲み物と相性がいいらしいから試してみたい((
                   <div class="date">Fri, 22 Jan 2021 23:55:47 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  最近疲れすぎで漫画読む気力すらない((頭に入らない
-                  <div class="date">Fri, 22 Jan 2021 20:08:58 GMT</div>
                 </div>
               
             
@@ -1789,7 +1789,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Sat, 23 Jan 2021 01:16:58 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sat, 23 Jan 2021 03:11:57 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
