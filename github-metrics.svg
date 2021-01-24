@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="915" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="941" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,28 +793,28 @@
             
               
                 <div class="tweet">
-                  HDRP向けのToonシェーダーにしたらこんな感じ（指向性光源オフ）  <span class="link">t.co/EIRg3ydrae</span> 
-                  <div class="date">Sun, 24 Jan 2021 13:47:24 GMT</div>
+                  Blenderも触ってみたいけど起動と終了の操作を覚えただけで進めない((
+                  <div class="date">Sun, 24 Jan 2021 14:33:27 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  やっばちょっとアウトラインあったほうが自然、そしてなによりかっこいい
-                  <div class="date">Sun, 24 Jan 2021 13:46:08 GMT</div>
+                  言葉的にはね、「正面からもっとパーってしゅっぱーっとするように光らせて」「ほっぺの輪郭をしゅっとぷにぷにで収まって」「髪の細部もしゅっとさらっとしゃっしゃっで」感じ
+                  <div class="date">Sun, 24 Jan 2021 14:31:17 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  真正面からの光源に弱いけどToonじゃないならなおさら輪郭に影ができちゃう。。。  <span class="link">t.co/3hy4CX3EuV</span> 
-                  <div class="date">Sun, 24 Jan 2021 13:38:01 GMT</div>
+                  Anti-aliasing関係の資料を一時間くらい眺めて今FHDの文字を読んだらすごいはっきりに見えると思った((
+                  <div class="date">Sun, 24 Jan 2021 14:28:42 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  RT  <span class="mention">@h_mugikinu</span> : そこじゃないのよ🥺  <span class="link">t.co/NYcgZLtwHb</span> 
-                  <div class="date">Sun, 24 Jan 2021 12:02:15 GMT</div>
+                  Unityを眺めてprprしてる（）
+                  <div class="date">Sun, 24 Jan 2021 14:27:07 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  RT  <span class="mention">@kireina_mochi</span> :  <span class="link">t.co/A3wraznLcY</span> 
-                  <div class="date">Sun, 24 Jan 2021 12:02:10 GMT</div>
+                  やっばこの顔すきああああああああ
+                  <div class="date">Sun, 24 Jan 2021 14:26:50 GMT</div>
                 </div>
               
             
@@ -1794,7 +1794,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Sun, 24 Jan 2021 13:51:15 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sun, 24 Jan 2021 14:39:04 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
