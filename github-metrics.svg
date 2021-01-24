@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="922" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="973" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,6 +793,21 @@
             
               
                 <div class="tweet">
+                  RT  <span class="mention">@fariyyukikaze</span> : プラモ箱が出来ましたので適当に配布しますー<br />よかったらお好きにお使いくださいっ<br />一応テクスチャ作った時のclipファイル入れてるので似た感じの作れるかも？<br /> <span class="link">t.co/VBf2gYudBt</span>   <span class="link">t.co/CrXzG</span> …
+                  <div class="date">Sun, 24 Jan 2021 10:15:14 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  昨日の集会からやる気をもらい、これからフェルガくん（デラックスコンプリートコレクターコレクションエディション）を作る  <span class="link">t.co/wrCBLXU3TW</span> 
+                  <div class="date">Sun, 24 Jan 2021 10:14:57 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@yamachisa808</span> : なんで？？？？？？？？？？？？？？？？  <span class="link">t.co/j4xOcPmjZd</span> 
+                  <div class="date">Sun, 24 Jan 2021 10:11:36 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   あれ、両方読み方違うんだ  <span class="link">t.co/mOLRui3U2c</span> 
                   <div class="date">Sun, 24 Jan 2021 09:19:36 GMT</div>
                 </div>
@@ -800,21 +815,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@manzokubt</span> : 今日の1キロおにぎり🍙\(´ω` )/♡  <span class="link">t.co/HZZtdoAe6K</span> 
                   <div class="date">Sun, 24 Jan 2021 09:18:38 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  この前Github LFSの制限越えてからUnity for Github使うのやめたけど昨日の件で改めて必要性を感じました。
-                  <div class="date">Sun, 24 Jan 2021 08:58:03 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  増田さんの陰キャボイス好き
-                  <div class="date">Sun, 24 Jan 2021 07:24:38 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  昨日うまく召喚できなかったけど夏フェルガに乗ってるベーム水鉄砲です（すき）  <span class="link">t.co/iD5Ule18sK</span> 
-                  <div class="date">Sun, 24 Jan 2021 07:05:27 GMT</div>
                 </div>
               
             
@@ -1794,7 +1794,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Sun, 24 Jan 2021 09:46:45 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sun, 24 Jan 2021 10:48:50 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
