@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1077" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="969" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,28 +793,28 @@
             
               
                 <div class="tweet">
-                  2600の限界を感じてる  <span class="link">t.co/BQCkYjvVDd</span> 
-                  <div class="date">Tue, 26 Jan 2021 05:53:15 GMT</div>
+                   <span class="mention">@Dr_mizushima</span>  昨日昼も夜もチー牛だった((まだ食べたいのはある
+                  <div class="date">Tue, 26 Jan 2021 07:17:32 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  【Ado】うっせぇわ 歌ってみた covered by ガチャピン  <span class="link">t.co/iC6qcBTKTb</span>   <span class="mention">@YouTube</span> より
-                  <div class="date">Tue, 26 Jan 2021 05:16:03 GMT</div>
+                   <span class="mention">@mirrorsflash</span>  MMD変換
+                  <div class="date">Tue, 26 Jan 2021 07:17:06 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  今回はURP向けのToonシェーダーを使ってみた、アバター自体もちょっと光るので皮膚の表現は多少安定している（まあ、なんもないステージなので特に影響されることも少ないけど）。そしてなにより<br /><br />かっこいい。  <span class="link">t.co/4sVjEe7Ddq</span> 
-                  <div class="date">Tue, 26 Jan 2021 03:24:03 GMT</div>
+                  プイプイレーシング。。。<br /><br />モルカーのゲーミングチェアかと思った
+                  <div class="date">Tue, 26 Jan 2021 07:05:32 GMT</div>
                 </div>
               
                 <div class="tweet">
-                   <span class="mention">@holy_ayanyan</span>   <span class="link">t.co/t7VjWp6mSX</span> 
-                  <div class="date">Tue, 26 Jan 2021 03:21:27 GMT</div>
+                  今夜何食べようかな
+                  <div class="date">Tue, 26 Jan 2021 07:03:49 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  URPで撮ってみた、リップシンクをより精確にさせるために別途でボーカルのみの音源を書き出して使ってみた。YouTubeからでは4K60で観れるので滑らかでかっこいいフェルガ君を観てくだちゃい！<br /><br />（まばたきを入れるの忘れてた。。。）<br /><br /> <span class="link">t.co/ndhoqktCWs</span>   <span class="link">t.co/Ku1EgbmOVd</span> 
-                  <div class="date">Tue, 26 Jan 2021 03:18:16 GMT</div>
+                  URPでHand in Handを踊ってみた、ミーシェちゃんのも書き出してみた。YouTubeでは4K60で見えるので是非観てみてくだちゃい！<br /><br /> <span class="link">t.co/5fjK5ZHYeV</span>   <span class="link">t.co/wEm3IRzrPl</span> 
+                  <div class="date">Tue, 26 Jan 2021 07:00:00 GMT</div>
                 </div>
               
             
@@ -1804,7 +1804,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Tue, 26 Jan 2021 06:18:52 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Tue, 26 Jan 2021 07:19:17 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
