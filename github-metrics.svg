@@ -793,6 +793,11 @@
             
               
                 <div class="tweet">
+                  【Ado】うっせぇわ 歌ってみた covered by ガチャピン  <span class="link">t.co/iC6qcBTKTb</span>   <span class="mention">@YouTube</span> より
+                  <div class="date">Tue, 26 Jan 2021 05:16:03 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   今回はURP向けのToonシェーダーを使ってみた、アバター自体もちょっと光るので皮膚の表現は多少安定している（まあ、なんもないステージなので特に影響されることも少ないけど）。そしてなにより<br /><br />かっこいい。  <span class="link">t.co/4sVjEe7Ddq</span> 
                   <div class="date">Tue, 26 Jan 2021 03:24:03 GMT</div>
                 </div>
@@ -810,11 +815,6 @@
                 <div class="tweet">
                   メモリースピードが変わって快適になってる（なお量は今まだ関係ない、あとでRender作業してみる）
                   <div class="date">Tue, 26 Jan 2021 02:09:49 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                   <span class="mention">@mirrorsflash</span>  先のことも考えて多めにしてもええやと思って、それに場合によって今まで48も足りなかったときはあった((
-                  <div class="date">Tue, 26 Jan 2021 01:27:08 GMT</div>
                 </div>
               
             
@@ -1804,7 +1804,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Tue, 26 Jan 2021 04:22:16 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Tue, 26 Jan 2021 05:19:55 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
