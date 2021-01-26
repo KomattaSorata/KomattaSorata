@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="934" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="918" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,6 +793,11 @@
             
               
                 <div class="tweet">
+                  メモリースピードが変わって快適になってる（なお量は今まだ関係ない、あとでRender作業してみる）
+                  <div class="date">Tue, 26 Jan 2021 02:09:49 GMT</div>
+                </div>
+              
+                <div class="tweet">
                    <span class="mention">@mirrorsflash</span>  先のことも考えて多めにしてもええやと思って、それに場合によって今まで48も足りなかったときはあった((
                   <div class="date">Tue, 26 Jan 2021 01:27:08 GMT</div>
                 </div>
@@ -810,11 +815,6 @@
                 <div class="tweet">
                   なぜが3200まではいけなかった（起動できない）  <span class="link">t.co/8ZIWg1VJIO</span> 
                   <div class="date">Tue, 26 Jan 2021 01:15:51 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  新しいメモリー買った、32GB。。。<br /><br />4枚。  <span class="link">t.co/Ip2jAs2idq</span> 
-                  <div class="date">Tue, 26 Jan 2021 00:54:33 GMT</div>
                 </div>
               
             
@@ -1804,7 +1804,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Tue, 26 Jan 2021 01:57:40 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Tue, 26 Jan 2021 02:39:05 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
