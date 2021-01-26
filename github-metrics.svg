@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1023" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1097" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,6 +793,16 @@
             
               
                 <div class="tweet">
+                  今回はURP向けのToonシェーダーを使ってみた、アバター自体もちょっと光るので皮膚の表現は多少安定している（まあ、なんもないステージなので特に影響されることも少ないけど）。そしてなにより<br /><br />かっこいい。  <span class="link">t.co/4sVjEe7Ddq</span> 
+                  <div class="date">Tue, 26 Jan 2021 03:24:03 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                   <span class="mention">@holy_ayanyan</span>   <span class="link">t.co/t7VjWp6mSX</span> 
+                  <div class="date">Tue, 26 Jan 2021 03:21:27 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   URPで撮ってみた、リップシンクをより精確にさせるために別途でボーカルのみの音源を書き出して使ってみた。YouTubeからでは4K60で観れるので滑らかでかっこいいフェルガ君を観てくだちゃい！<br /><br />（まばたきを入れるの忘れてた。。。）<br /><br /> <span class="link">t.co/ndhoqktCWs</span>   <span class="link">t.co/Ku1EgbmOVd</span> 
                   <div class="date">Tue, 26 Jan 2021 03:18:16 GMT</div>
                 </div>
@@ -805,16 +815,6 @@
                 <div class="tweet">
                    <span class="mention">@mirrorsflash</span>  先のことも考えて多めにしてもええやと思って、それに場合によって今まで48も足りなかったときはあった((
                   <div class="date">Tue, 26 Jan 2021 01:27:08 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                   <span class="mention">@mirrorsflash</span>  そう
-                  <div class="date">Tue, 26 Jan 2021 01:24:26 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@nknk6164</span> :  <span class="link">t.co/nQhc8qVTSB</span> 
-                  <div class="date">Tue, 26 Jan 2021 01:16:42 GMT</div>
                 </div>
               
             
@@ -1804,7 +1804,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Tue, 26 Jan 2021 03:21:36 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Tue, 26 Jan 2021 04:22:16 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
