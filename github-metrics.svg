@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="941" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="922" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,6 +793,11 @@
             
               
                 <div class="tweet">
+                  Affinity系はいいぞ  <span class="link">t.co/eXrH995rpX</span> 
+                  <div class="date">Wed, 27 Jan 2021 11:12:14 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   RT  <span class="mention">@cobalt_kura</span> : 通知が多いスマートフォン  <span class="link">t.co/D8r5oMYHL4</span> 
                   <div class="date">Wed, 27 Jan 2021 10:21:50 GMT</div>
                 </div>
@@ -810,11 +815,6 @@
                 <div class="tweet">
                   進捗：１%未満（タイトル書いた）
                   <div class="date">Wed, 27 Jan 2021 05:19:17 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  これをみて頑張ってClusterに改変フェルガくんを上げた自分がえらいっと一瞬思った（Koupenchan）  <span class="link">t.co/ZmgdCZo6HP</span> 
-                  <div class="date">Wed, 27 Jan 2021 05:02:11 GMT</div>
                 </div>
               
             
@@ -1809,7 +1809,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Wed, 27 Jan 2021 10:29:33 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Wed, 27 Jan 2021 11:16:15 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
