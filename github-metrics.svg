@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="941" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="960" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,6 +793,11 @@
             
               
                 <div class="tweet">
+                  一枚目書き終わったー ６ページくらい書いた、引用文献のところFateいっぱい入ってる((  <span class="link">t.co/fHpgSX8wAc</span> 
+                  <div class="date">Wed, 27 Jan 2021 07:02:39 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   進捗：１%未満（タイトル書いた）
                   <div class="date">Wed, 27 Jan 2021 05:19:17 GMT</div>
                 </div>
@@ -810,11 +815,6 @@
                 <div class="tweet">
                   今日はレポートを書く日だ。<br />一枚目は「人類史最大の英雄伝を翻訳する - Translating the most prodigious legend of heroes」（そう、FGOだ）
                   <div class="date">Wed, 27 Jan 2021 04:56:38 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@k_r_r_l_l_</span> : 寒い世界に立ち向かって  <span class="link">t.co/3PujWFWa1q</span> 
-                  <div class="date">Wed, 27 Jan 2021 04:54:31 GMT</div>
                 </div>
               
             
@@ -1809,7 +1809,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Wed, 27 Jan 2021 06:19:10 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Wed, 27 Jan 2021 07:18:16 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
