@@ -793,6 +793,11 @@
             
               
                 <div class="tweet">
+                  RT  <span class="mention">@purin_sanrio</span> : ボク、食べるプリンじゃないよ～。  <span class="link">t.co/f0ncQ9bZLY</span> 
+                  <div class="date">Thu, 28 Jan 2021 05:52:31 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   未成年に対して過激やテーマの偏っているアダルトコンテンツは未熟の青年に悪影響（こういうのは普通だ！と思わせてしまう）を与えるかもしれないか、普通のもの（まあ、健全なエロ）を適切な指導を加えて提供してもいいじゃないかなとは思う
                   <div class="date">Thu, 28 Jan 2021 00:04:06 GMT</div>
                 </div>
@@ -810,11 +815,6 @@
                 <div class="tweet">
                    <span class="mention">@mirrorsflash</span>  そうそう、けどいまはまだ一応メインクエ進んでる
                   <div class="date">Wed, 27 Jan 2021 23:56:28 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                   <span class="mention">@mirrorsflash</span>  数時間くらいやった、今16くらい((
-                  <div class="date">Wed, 27 Jan 2021 23:55:22 GMT</div>
                 </div>
               
             
@@ -1814,7 +1814,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Thu, 28 Jan 2021 03:23:15 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Thu, 28 Jan 2021 07:31:41 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
