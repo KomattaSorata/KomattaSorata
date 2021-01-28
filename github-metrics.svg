@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="941" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="995" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,6 +793,11 @@
             
               
                 <div class="tweet">
+                  RT  <span class="mention">@pamyurin</span> : 28歳になりました。<br />今年はデビューして10年！みなさんのおかげです🥺面白いことまだまだたくさんやっていきたいです。<br />ガムガムガールも聴いてねっ！<br /> <span class="link">t.co/tT2I7G0xpB</span>   <span class="link">t.co/zshC7xRTWl</span> 
+                  <div class="date">Thu, 28 Jan 2021 16:07:01 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   カジノあるの知らなかったｗｗｗｗ機能クエストを受けたら案内されて初日で大当たりだｗｗｗ  <span class="link">t.co/HA46PYjNOK</span> 
                   <div class="date">Thu, 28 Jan 2021 14:44:04 GMT</div>
                 </div>
@@ -810,11 +815,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@hanae0626</span> : 起きたくない🙍‍♂️  <span class="link">t.co/P4J545iqm9</span> 
                   <div class="date">Thu, 28 Jan 2021 12:27:15 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@Kritter_sub</span> : 目に入っても痛い <br /> 金と玉です <span class="link">t.co/S9FQyWXul0</span> 
-                  <div class="date">Thu, 28 Jan 2021 12:25:42 GMT</div>
                 </div>
               
             
@@ -1814,7 +1814,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Thu, 28 Jan 2021 15:16:05 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Thu, 28 Jan 2021 16:30:49 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
