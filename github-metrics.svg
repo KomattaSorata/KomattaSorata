@@ -793,6 +793,11 @@
             
               
                 <div class="tweet">
+                  RT  <span class="mention">@shuumai</span> : 住民税の新イベ…
+                  <div class="date">Thu, 28 Jan 2021 10:41:17 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   頭痛い
                   <div class="date">Thu, 28 Jan 2021 08:14:48 GMT</div>
                 </div>
@@ -810,11 +815,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@mokkori_MKR</span> : 👮 <span class="hashtag">#VRChat</span>   <span class="link">t.co/cZlZfqPwUz</span> 
                   <div class="date">Thu, 28 Jan 2021 08:09:46 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@bbbbit</span> : いい感じになってきた  <span class="link">t.co/TU1HIJrsaO</span> 
-                  <div class="date">Thu, 28 Jan 2021 08:09:01 GMT</div>
                 </div>
               
             
@@ -1814,7 +1814,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Thu, 28 Jan 2021 10:21:17 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Thu, 28 Jan 2021 11:18:27 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
