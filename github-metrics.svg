@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1065" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1221" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,6 +793,16 @@
             
               
                 <div class="tweet">
+                  RT  <span class="mention">@Kyo_Hanabasami</span> : 🌊⚓️アイマリンプロジェクト<br />「Stand up! Blaze up!」cover<br /><br />Full  <span class="link">t.co/adV47WTJ2L</span> <br /><br />作詞・作曲：ヒゲドライバー<br />編曲：篠崎あやと<br /><br />あまり歌わない曲調に挑戦したよ！<br />後半特にか…
+                  <div class="date">Fri, 29 Jan 2021 11:16:57 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@kaeru_san</span> : 椅子に座っただけで働いたような気になっているひよこ  <span class="link">t.co/A8Hpowc26v</span> 
+                  <div class="date">Fri, 29 Jan 2021 11:16:52 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   おきた
                   <div class="date">Fri, 29 Jan 2021 10:18:32 GMT</div>
                 </div>
@@ -805,16 +815,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@Sikirans_as</span> : 〈 次の計画を表示 〉<br /><br />〈 電子海域　AI用第四世代標準素体〉<br />〈 名称：Apkall / Arkall 〉<br /><br />〈 現在、プラントの移設作業により制作の見通しは立っていません 〉<br />〈 販売時期は未定となっています 〉<br />〈 細部デザインは変更の…
                   <div class="date">Fri, 29 Jan 2021 09:47:23 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  おひるねんねんたいむ
-                  <div class="date">Fri, 29 Jan 2021 05:22:10 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@iamnishipy</span> : 年収300万プログラマーがソースコード流出させ、年収1500万本部長が下半身露出させる朝
-                  <div class="date">Fri, 29 Jan 2021 05:20:55 GMT</div>
                 </div>
               
             
@@ -1784,7 +1784,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Fri, 29 Jan 2021 10:21:20 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Fri, 29 Jan 2021 11:17:45 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
