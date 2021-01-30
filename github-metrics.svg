@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1042" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="966" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,28 +793,28 @@
             
               
                 <div class="tweet">
-                  RT  <span class="mention">@shuumai</span> : やばっ
-                  <div class="date">Sat, 30 Jan 2021 13:23:10 GMT</div>
+                  スマホ向けコンテンツって、大体Unityエンジンだけど、Unity HumanoidよりMMDのほうが多い気がする。。。軽量化のため。。。？
+                  <div class="date">Sat, 30 Jan 2021 13:34:29 GMT</div>
                 </div>
               
                 <div class="tweet">
-                   <span class="link">t.co/20i5EXMmlD</span> 
-                  <div class="date">Sat, 30 Jan 2021 11:08:51 GMT</div>
+                  例の踊りもーきゃだけど。<br />So I realized the best way is to fragmentize every part of body movement and divide the motion in tiny bits. So it will still be based on 6-point tracking (as to get smoother perf.) but with heavy refinement after prod.
+                  <div class="date">Sat, 30 Jan 2021 13:31:26 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  RT  <span class="mention">@pj_sekai</span> : 1月31日に追加される<br />Vivid BAD SQUAD書き下ろし楽曲<br />🌟HARDプレイ動画を公開🌟<br /><br />『RAD DOGS』<br />🎵八王子P（ <span class="mention">@8_Prince</span> ）<br /><br />セカイver.ではVivid BAD SQUADと初音ミクが歌唱🎙️🎶<br /><br /> <span class="hashtag">#初音ミク</span>   <span class="hashtag">#プ…</span> 
-                  <div class="date">Sat, 30 Jan 2021 10:36:34 GMT</div>
+                  RT  <span class="mention">@matumuraaaa</span> :  <span class="link">t.co/mor1kMTGAJ</span> 
+                  <div class="date">Sat, 30 Jan 2021 13:28:00 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  RT  <span class="mention">@Seka_ichi</span> : これすき  <span class="link">t.co/IN20ghkNqM</span> 
-                  <div class="date">Sat, 30 Jan 2021 10:28:04 GMT</div>
+                  RT  <span class="mention">@komugiko_2000</span> : 中学の時のテスト死んでいる  <span class="link">t.co/cKM7mALXCn</span> 
+                  <div class="date">Sat, 30 Jan 2021 13:27:24 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  RT  <span class="mention">@mapery0</span> : 動くボール  <span class="link">t.co/nBEDXQWrUg</span> 
-                  <div class="date">Sat, 30 Jan 2021 10:26:44 GMT</div>
+                  試作ゲームからちょっと企画自体に変動があってシナリオが三倍くらい生えとる（なお書き終わらない）
+                  <div class="date">Sat, 30 Jan 2021 13:25:06 GMT</div>
                 </div>
               
             
@@ -1789,7 +1789,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Sat, 30 Jan 2021 13:24:45 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sat, 30 Jan 2021 14:17:44 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
