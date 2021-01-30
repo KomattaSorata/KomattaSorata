@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="947" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="883" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,28 +793,28 @@
             
               
                 <div class="tweet">
-                  健康です！  <span class="link">t.co/GLdnJfMyPU</span> 
-                  <div class="date">Sat, 30 Jan 2021 15:42:30 GMT</div>
+                  あー嫌だ。言葉にしたいけどうまく言えない、寝る
+                  <div class="date">Sat, 30 Jan 2021 17:16:02 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  RT  <span class="mention">@shuumai</span> : 身長180cm
-                  <div class="date">Sat, 30 Jan 2021 15:41:49 GMT</div>
+                   <span class="mention">@nekomoyac</span>  (´・ω・｀)
+                  <div class="date">Sat, 30 Jan 2021 17:14:29 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  RT  <span class="mention">@nknk6164</span> :  <span class="link">t.co/f6JBDgU62T</span> 
-                  <div class="date">Sat, 30 Jan 2021 15:32:52 GMT</div>
+                  責任感がね。。。
+                  <div class="date">Sat, 30 Jan 2021 17:13:11 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  スマホ向けコンテンツって、大体Unityエンジンだけど、Unity HumanoidよりMMDのほうが多い気がする。。。軽量化のため。。。？
-                  <div class="date">Sat, 30 Jan 2021 13:34:29 GMT</div>
+                   <span class="mention">@nekomoyac</span>  ？
+                  <div class="date">Sat, 30 Jan 2021 17:07:19 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  例の踊りもーきゃだけど。<br />So I realized the best way is to fragmentize every part of body movement and divide the motion in tiny bits. So it will still be based on 6-point tracking (as to get smoother perf.) but with heavy refinement after prod.
-                  <div class="date">Sat, 30 Jan 2021 13:31:26 GMT</div>
+                  あああ悩む
+                  <div class="date">Sat, 30 Jan 2021 17:06:49 GMT</div>
                 </div>
               
             
@@ -1789,7 +1789,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Sat, 30 Jan 2021 16:30:10 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sat, 30 Jan 2021 17:42:35 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
