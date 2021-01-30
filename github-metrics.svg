@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="966" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="947" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,6 +793,21 @@
             
               
                 <div class="tweet">
+                  健康です！  <span class="link">t.co/GLdnJfMyPU</span> 
+                  <div class="date">Sat, 30 Jan 2021 15:42:30 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@shuumai</span> : 身長180cm
+                  <div class="date">Sat, 30 Jan 2021 15:41:49 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@nknk6164</span> :  <span class="link">t.co/f6JBDgU62T</span> 
+                  <div class="date">Sat, 30 Jan 2021 15:32:52 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   スマホ向けコンテンツって、大体Unityエンジンだけど、Unity HumanoidよりMMDのほうが多い気がする。。。軽量化のため。。。？
                   <div class="date">Sat, 30 Jan 2021 13:34:29 GMT</div>
                 </div>
@@ -800,21 +815,6 @@
                 <div class="tweet">
                   例の踊りもーきゃだけど。<br />So I realized the best way is to fragmentize every part of body movement and divide the motion in tiny bits. So it will still be based on 6-point tracking (as to get smoother perf.) but with heavy refinement after prod.
                   <div class="date">Sat, 30 Jan 2021 13:31:26 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@matumuraaaa</span> :  <span class="link">t.co/mor1kMTGAJ</span> 
-                  <div class="date">Sat, 30 Jan 2021 13:28:00 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@komugiko_2000</span> : 中学の時のテスト死んでいる  <span class="link">t.co/cKM7mALXCn</span> 
-                  <div class="date">Sat, 30 Jan 2021 13:27:24 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  試作ゲームからちょっと企画自体に変動があってシナリオが三倍くらい生えとる（なお書き終わらない）
-                  <div class="date">Sat, 30 Jan 2021 13:25:06 GMT</div>
                 </div>
               
             
@@ -1789,7 +1789,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Sat, 30 Jan 2021 15:15:50 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sat, 30 Jan 2021 16:30:10 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
