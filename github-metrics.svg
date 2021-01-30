@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="941" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1042" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,28 +793,28 @@
             
               
                 <div class="tweet">
+                   <span class="link">t.co/20i5EXMmlD</span> 
+                  <div class="date">Sat, 30 Jan 2021 11:08:51 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@pj_sekai</span> : 1月31日に追加される<br />Vivid BAD SQUAD書き下ろし楽曲<br />🌟HARDプレイ動画を公開🌟<br /><br />『RAD DOGS』<br />🎵八王子P（ <span class="mention">@8_Prince</span> ）<br /><br />セカイver.ではVivid BAD SQUADと初音ミクが歌唱🎙️🎶<br /><br /> <span class="hashtag">#初音ミク</span>   <span class="hashtag">#プ…</span> 
+                  <div class="date">Sat, 30 Jan 2021 10:36:34 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@Seka_ichi</span> : これすき  <span class="link">t.co/IN20ghkNqM</span> 
+                  <div class="date">Sat, 30 Jan 2021 10:28:04 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@mapery0</span> : 動くボール  <span class="link">t.co/nBEDXQWrUg</span> 
+                  <div class="date">Sat, 30 Jan 2021 10:26:44 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   JetBrain系のIDEちょっと触ってみたけど、やっばVSCでいいや。。。
                   <div class="date">Sat, 30 Jan 2021 08:11:29 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@shuumai</span> : 10分くらい寝ちゃっ
-                  <div class="date">Sat, 30 Jan 2021 05:45:48 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  そういえば今週全然外出てないな。。。ゴミは出したけど
-                  <div class="date">Sat, 30 Jan 2021 00:18:00 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  飛行機もほぼ便無いし着いたらホテルに二週間隔離でその後一週間自宅待機、日本に戻るときも二週間引きこもる事になるし（まあ元々してるけど）やっばいいや((
-                  <div class="date">Sat, 30 Jan 2021 00:17:40 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  旧正月一旦実家へ帰えようかなと悩んてるけどコロナ事情より帰りたくないのはある
-                  <div class="date">Sat, 30 Jan 2021 00:16:12 GMT</div>
                 </div>
               
             
@@ -1789,7 +1789,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Sat, 30 Jan 2021 10:19:40 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sat, 30 Jan 2021 11:16:56 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
