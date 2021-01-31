@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="915" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="934" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -793,6 +793,21 @@
             
               
                 <div class="tweet">
+                  お腹すいた、寝れない
+                  <div class="date">Sun, 31 Jan 2021 17:11:13 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  線形代数の課題全然出来なくて、高一の弟がちょっと見てくれた。。。<br /><br />多分手伝ってもらうかも((
+                  <div class="date">Sun, 31 Jan 2021 17:09:40 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  実はFF14まだフリートライアルです。箱が欲しいのでAmazonで注文した。春休みはいっぱい冒険するわい
+                  <div class="date">Sun, 31 Jan 2021 16:49:04 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   RT  <span class="mention">@HakuVrc</span> : 🐑🐏ｼﾞﾝｼﾞﾝｼﾞﾝｼﾞﾝｼﾞﾝｷﾞｽｶﾝ♪🐏🐑 <span class="hashtag">#VRChat</span>   <span class="link">t.co/fSPJ1WRf6G</span> 
                   <div class="date">Sun, 31 Jan 2021 11:52:23 GMT</div>
                 </div>
@@ -800,21 +815,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@kiman_prpr</span> : ぷにぷに👉💛  <span class="link">t.co/9ZZTesqGGN</span> 
                   <div class="date">Sun, 31 Jan 2021 09:56:49 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  ???????????????????????  <span class="link">t.co/2DfqPec0PD</span> 
-                  <div class="date">Sun, 31 Jan 2021 09:42:33 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  これ好き  <span class="link">t.co/1pK2mfSVaG</span> 
-                  <div class="date">Sun, 31 Jan 2021 08:50:17 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  やっば記録する((<br />朝は寝てた、昼飯はアップルティーで割ったCOMPとトマトスープ。705kcalです。  <span class="link">t.co/Aeh925Vxdt</span> 
-                  <div class="date">Sun, 31 Jan 2021 03:38:23 GMT</div>
                 </div>
               
             
@@ -1794,7 +1794,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Sun, 31 Jan 2021 16:30:06 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sun, 31 Jan 2021 17:42:50 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
