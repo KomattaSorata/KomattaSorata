@@ -899,6 +899,11 @@
             
               
                 <div class="tweet">
+                  寝る寝る
+                  <div class="date">Tue, 02 Feb 2021 23:15:28 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   新アプリは新APIを基づいて作られたからそのうち色々実装されるといいな（ずっと投票とフリートない）
                   <div class="date">Tue, 02 Feb 2021 20:00:55 GMT</div>
                 </div>
@@ -916,11 +921,6 @@
                 <div class="tweet">
                   シャワー入って寝ようと思ったらもう朝だ。。。
                   <div class="date">Tue, 02 Feb 2021 19:39:19 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  たのC  <span class="link">t.co/ag4PFsmuZJ</span> 
-                  <div class="date">Tue, 02 Feb 2021 18:21:46 GMT</div>
                 </div>
               
             
@@ -1917,7 +1917,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Tue, 02 Feb 2021 22:18:21 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Tue, 02 Feb 2021 23:16:18 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
