@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="938" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="915" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -899,6 +899,16 @@
             
               
                 <div class="tweet">
+                  いきなり！？！？！？  <span class="link">t.co/zfQPYQKybs</span> 
+                  <div class="date">Wed, 03 Feb 2021 09:12:40 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@appmediafgo</span> : 聖杯戦線！？！？<br /> <span class="hashtag">#FGO</span>   <span class="link">t.co/e3qoUvM9aZ</span> 
+                  <div class="date">Wed, 03 Feb 2021 09:12:26 GMT</div>
+                </div>
+              
+                <div class="tweet">
                    <span class="mention">@Dr_mizushima</span>   <span class="link">t.co/u9m8r2fqNi</span> 
                   <div class="date">Tue, 02 Feb 2021 23:23:19 GMT</div>
                 </div>
@@ -911,16 +921,6 @@
                 <div class="tweet">
                   新アプリは新APIを基づいて作られたからそのうち色々実装されるといいな（ずっと投票とフリートない）
                   <div class="date">Tue, 02 Feb 2021 20:00:55 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  ツイーターの公式アプリ使ってない代わりに数年前（Tweetbot 3の頃）から  <span class="mention">@tweetbot</span>  を使っている。今年でTweetbot 6になって契約制になったけど考えず更新して払った。年間600円ちょいでおすすめ
-                  <div class="date">Tue, 02 Feb 2021 19:59:55 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  ゲームにこんなにハマったのは中学ぶりだな
-                  <div class="date">Tue, 02 Feb 2021 19:39:42 GMT</div>
                 </div>
               
             
@@ -1922,7 +1922,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Wed, 03 Feb 2021 08:19:40 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Wed, 03 Feb 2021 09:16:37 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
