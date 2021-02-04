@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="883" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1007" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -899,6 +899,16 @@
             
               
                 <div class="tweet">
+                  RT  <span class="mention">@uropex</span> : それはご自身が思い込んでいるから、建前だと感じるのではないでしょうか。<br /><br />世代間のギャップを活かしたトークや、立ち位置による価値観の違いによる新たな発見等、沢山ありますよ。<br /><br />一人称でVRCという枠組みを大きく括り出す浅薄さこそが、貴方に壁を感じさせる本…
+                  <div class="date">Thu, 04 Feb 2021 08:04:16 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@elonmusk</span> : ur welcome  <span class="link">t.co/e2KF57KLxb</span> 
+                  <div class="date">Thu, 04 Feb 2021 07:59:11 GMT</div>
+                </div>
+              
+                <div class="tweet">
                    <span class="mention">@uropex</span>  それはダメ((
                   <div class="date">Thu, 04 Feb 2021 06:29:58 GMT</div>
                 </div>
@@ -911,16 +921,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@Kritter_sub</span> : 誰も私を理解していません <span class="link">t.co/bsRzDZDdSW</span> 
                   <div class="date">Thu, 04 Feb 2021 05:30:35 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                   <span class="mention">@uropex</span>  中学生かいwwwwwwwwww
-                  <div class="date">Thu, 04 Feb 2021 05:10:20 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                   <span class="mention">@uropex</span>  違うよw
-                  <div class="date">Thu, 04 Feb 2021 05:01:25 GMT</div>
                 </div>
               
             
@@ -1927,7 +1927,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Thu, 04 Feb 2021 07:14:46 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Thu, 04 Feb 2021 08:17:59 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
