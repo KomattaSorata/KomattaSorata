@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1030" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="988" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -899,6 +899,16 @@
             
               
                 <div class="tweet">
+                  怖い話は辞めてくだちゃい！  <span class="link">t.co/d2n0ZRA87R</span> 
+                  <div class="date">Thu, 04 Feb 2021 16:36:42 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@v8js</span> : 🔥 What’s new in V8 v8.9? Top-level `await` enabled by default in Blink and performance improvements for calls with argument size…
+                  <div class="date">Thu, 04 Feb 2021 16:33:59 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   RT  <span class="mention">@nepon954</span> : 面接官わし「（履歴書を見ながら）お子さんいらっしゃるんですね。どうされたんですか？（託児環境確認）」<br />緊張してるおねーちゃん「あっ!?えっ!?はい！生でセックスしました！」<br /><br />窓の景色を観ながら歯を食い縛る同席者＿間を空けて事態を察したおねーちゃん＿…
                   <div class="date">Thu, 04 Feb 2021 14:40:01 GMT</div>
                 </div>
@@ -911,16 +921,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@1rgt0</span> : 愚かな人間に加担してしまうモルカー  <span class="link">t.co/pEfsiE9DxX</span> 
                   <div class="date">Thu, 04 Feb 2021 14:36:55 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                   <span class="mention">@nekomoyac</span>   <span class="link">t.co/xq81suqfFF</span> 
-                  <div class="date">Thu, 04 Feb 2021 14:31:47 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  SENが特許申請（WO2021015924、英語）を公開した、MLを使ってプレイヤーのプレイスタイルやスキル（上手さ）に応じてボスの難易度をダイナミックに調整。過去の難易度選択（パラメータプリセット形式）ではなく、細かくプレイヤーのレベル（スキル）に相応しい戦闘体験を与える。
-                  <div class="date">Thu, 04 Feb 2021 09:30:34 GMT</div>
                 </div>
               
             
@@ -1927,7 +1927,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Thu, 04 Feb 2021 16:24:27 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Thu, 04 Feb 2021 17:23:06 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
