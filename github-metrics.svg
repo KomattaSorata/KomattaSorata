@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="922" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1023" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -899,28 +899,28 @@
             
               
                 <div class="tweet">
-                   <span class="hashtag">#FFXIV新情報発表会</span> 　多言語発表のうまいやり方、すごい
-                  <div class="date">Sat, 06 Feb 2021 01:36:14 GMT</div>
+                   <span class="hashtag">#FFXIV新情報発表会</span>   <span class="hashtag">#FFXIV</span>   <span class="link">t.co/tnkiIasJZ7</span> 
+                  <div class="date">Sat, 06 Feb 2021 02:04:46 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  四国語で挨拶するのすごいｗｗｗ
-                  <div class="date">Sat, 06 Feb 2021 01:34:29 GMT</div>
+                  RT  <span class="mention">@FF_XIV_JP</span> : 【 <span class="hashtag">#FF14新情報発表会</span> 】<br />新たなヒーラージョブ「賢者」公開！<br /><br />高解像度版はYouTubeでご覧ください。<br />🌐 <span class="link">t.co/aL8R7A1HxO</span> <br /><br /> <span class="hashtag">#暁月のフィナーレ</span>   <span class="hashtag">#FF14</span>   <span class="link">t.co/TOPEr57CeB</span> 
+                  <div class="date">Sat, 06 Feb 2021 01:47:53 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  オープニングかっこええ
-                  <div class="date">Sat, 06 Feb 2021 01:34:05 GMT</div>
+                  賢具（？）SF風だけどばりばり魔法なんだよなｗかっこいい
+                  <div class="date">Sat, 06 Feb 2021 01:47:38 GMT</div>
                 </div>
               
                 <div class="tweet">
-                   <span class="hashtag">#FFXIV新情報発表会</span>  月！？！？！？！？
-                  <div class="date">Sat, 06 Feb 2021 01:33:54 GMT</div>
+                  Sageを観たら思わずサゲと読んっちゃっだｗｗｗ
+                  <div class="date">Sat, 06 Feb 2021 01:45:47 GMT</div>
                 </div>
               
                 <div class="tweet">
-                   <span class="mention">@mirrorsflash</span>  うーん、メイン進みながらサブ（不滅隊の討伐手帳やダンジョン解放とか）もちょくちょくやってる。新しい解放したエリアで飛べないのは大きい((
-                  <div class="date">Sat, 06 Feb 2021 01:29:01 GMT</div>
+                  RT  <span class="mention">@FF14_sokuhou</span> : 【FF14】パッチ6.0「暁月の終焉」が2021年秋に発売決定！ナイトが主人公のトレーラー映像が公開！！  <span class="link">t.co/qhT8eK188g</span>   <span class="hashtag">#FF14</span>   <span class="link">t.co/MND1PoXfoh</span> 
+                  <div class="date">Sat, 06 Feb 2021 01:44:29 GMT</div>
                 </div>
               
             
@@ -1902,7 +1902,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Sat, 06 Feb 2021 01:37:00 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sat, 06 Feb 2021 02:18:36 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
