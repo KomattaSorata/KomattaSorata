@@ -899,6 +899,11 @@
             
               
                 <div class="tweet">
+                  どこだ  <span class="link">t.co/7xBKQXX87P</span> 
+                  <div class="date">Mon, 08 Feb 2021 16:23:40 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   RT  <span class="mention">@mmnk_vt</span> : VRChatに住んでる方へ。<br /><br />VRChatに関する技術同人誌の即売会、VRC技術市Ⅱがいよいよ2月20・21日に開催されます。<br />この世界をより楽しむための知識が再び集まりました。ぜひ覗きに来てください。<br /> <span class="link">t.co/oaWUL1gmA6</span> …
                   <div class="date">Mon, 08 Feb 2021 13:10:26 GMT</div>
                 </div>
@@ -916,11 +921,6 @@
                 <div class="tweet">
                   Okita
                   <div class="date">Mon, 08 Feb 2021 12:38:29 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                   <span class="mention">@terunyarrrrr</span>   <span class="mention">@NATU_VRC</span>  僕も一瞬ガチで野菜かと思った
-                  <div class="date">Mon, 08 Feb 2021 04:46:15 GMT</div>
                 </div>
               
             
@@ -1912,7 +1912,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Mon, 08 Feb 2021 16:23:40 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Mon, 08 Feb 2021 17:25:19 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
