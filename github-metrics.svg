@@ -899,6 +899,16 @@
             
               
                 <div class="tweet">
+                  寝ようと思ったら荷物が配達中だから起きなきゃ。。。
+                  <div class="date">Mon, 08 Feb 2021 23:23:34 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  音については全然わからない((  <span class="link">t.co/hrqBO0epMp</span> 
+                  <div class="date">Mon, 08 Feb 2021 23:20:17 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   RT  <span class="mention">@k_r_r_l_l_</span> : 勇者コウペンちゃん  <span class="link">t.co/t05M8825Dg</span> 
                   <div class="date">Mon, 08 Feb 2021 22:14:54 GMT</div>
                 </div>
@@ -911,16 +921,6 @@
                 <div class="tweet">
                   あああああまだ朝になっちゃったじゃないかいいいいい
                   <div class="date">Mon, 08 Feb 2021 21:07:58 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  最終日でやっと出たああああ  <span class="link">t.co/oIn0WYp7IU</span> 
-                  <div class="date">Mon, 08 Feb 2021 20:31:42 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  うまいぼう  <span class="link">t.co/eu2t7FbPTD</span> 
-                  <div class="date">Mon, 08 Feb 2021 19:29:55 GMT</div>
                 </div>
               
             
@@ -1888,6 +1888,11 @@
                       <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                    </g>
+                    <g transform="translate(-3.4, 8)">
+                      <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                     </g></g></g></svg>
     
   </section>
@@ -1912,7 +1917,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Mon, 08 Feb 2021 23:15:21 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Tue, 09 Feb 2021 00:35:34 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
