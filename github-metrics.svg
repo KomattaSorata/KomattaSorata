@@ -899,6 +899,11 @@
             
               
                 <div class="tweet">
+                  チュニ初め（旧正月）  <span class="link">t.co/37pXR3633x</span> 
+                  <div class="date">Fri, 12 Feb 2021 08:25:22 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   なかみ？  <span class="link">t.co/00du2ONEhs</span> 
                   <div class="date">Fri, 12 Feb 2021 06:51:28 GMT</div>
                 </div>
@@ -916,11 +921,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@djmax_japan</span> : 【旧正月セール！】<br />先日ウィンターセールやったのにもうセール！<br />TECHNIKAシリーズパックが65%オフに！<br />ドルフロ、チュウニズムパックも30%オフ対象！<br />超！超！お得なセールをお見逃しなく！<br />2/16(火)午前3時まで！<br /> <span class="hashtag">#DJMAX</span>   <span class="hashtag">#…</span> 
                   <div class="date">Thu, 11 Feb 2021 18:50:46 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@kanta_gw</span> : 出会って間もないころ(テディと飼い主)  <span class="link">t.co/2LO30khlwr</span> 
-                  <div class="date">Thu, 11 Feb 2021 15:25:48 GMT</div>
                 </div>
               
             
@@ -1897,7 +1897,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Fri, 12 Feb 2021 08:18:58 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Fri, 12 Feb 2021 09:16:17 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
