@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="941" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="903" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -899,28 +899,28 @@
             
               
                 <div class="tweet">
-                  RT  <span class="mention">@UN_NERV</span> : 【震度・震源速報 2021年2月13日】<br />23時7分頃、福島県沖を震源とする地震がありました。震源の深さは約60km、地震の規模はM7.1と推定されています。この地震により、日本の沿岸では若干の海面変動があるかもしれませんが、被害の心配はありません。…
-                  <div class="date">Sat, 13 Feb 2021 14:14:56 GMT</div>
+                   <span class="mention">@nekomoyac</span>  そらたくんに聞いてみたら？（うん？？？？？）
+                  <div class="date">Sat, 13 Feb 2021 14:35:54 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  久々自宅でこんなに揺れるのを感じた（こわい）
-                  <div class="date">Sat, 13 Feb 2021 14:14:47 GMT</div>
+                   <span class="mention">@nekomoyac</span>  そう。
+                  <div class="date">Sat, 13 Feb 2021 14:35:09 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  めっちゃ揺れた
-                  <div class="date">Sat, 13 Feb 2021 14:14:21 GMT</div>
+                   <span class="mention">@nekomoyac</span>  うまそう
+                  <div class="date">Sat, 13 Feb 2021 14:33:47 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  弟にFF14教えた四日目、コンプリートパック購入
-                  <div class="date">Sat, 13 Feb 2021 14:00:45 GMT</div>
+                   <span class="mention">@nekomoyac</span>  地震よりのこツイートでびっくりしたｗｗ
+                  <div class="date">Sat, 13 Feb 2021 14:33:17 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  ぴかっ？  <span class="link">t.co/t7Rgz3I77t</span> 
-                  <div class="date">Sat, 13 Feb 2021 13:44:11 GMT</div>
+                   <span class="mention">@uropex</span>  そっか。。。そのスケールになってるのか。。。<br />ちょっとジャンプすれば余震起こそうからおとなしくする
+                  <div class="date">Sat, 13 Feb 2021 14:32:35 GMT</div>
                 </div>
               
             
@@ -1902,7 +1902,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Sat, 13 Feb 2021 14:15:42 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sat, 13 Feb 2021 15:13:59 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
