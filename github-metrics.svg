@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="938" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="934" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -899,28 +899,28 @@
             
               
                 <div class="tweet">
+                  RT  <span class="mention">@TheRikeys</span> : I feel violated  <span class="link">t.co/JQsQHyKOBA</span> 
+                  <div class="date">Sat, 13 Feb 2021 02:07:13 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@onitsuchi</span> : こちら工事中のホテルのように見えますが、そういうデザインのラブホテルなんです。<br />工事現場で致してみたかったんだよなという方は是非ご利用ください。  <span class="link">t.co/nsuf67VkIf</span> 
+                  <div class="date">Sat, 13 Feb 2021 02:06:19 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  ねむい、ねる
+                  <div class="date">Sat, 13 Feb 2021 02:04:30 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  うーんんんn
+                  <div class="date">Sat, 13 Feb 2021 02:04:24 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   あれ、予約したCDが発売日より4日くらい早めに来た
                   <div class="date">Sat, 13 Feb 2021 01:23:31 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  あらかわ((ry  <span class="link">t.co/qV6Cba7Rc6</span> 
-                  <div class="date">Sat, 13 Feb 2021 00:24:53 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@nknk6164</span> :  <span class="link">t.co/qhebwQglAj</span> 
-                  <div class="date">Fri, 12 Feb 2021 14:43:54 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@shuumai</span> : センスあるね
-                  <div class="date">Fri, 12 Feb 2021 13:46:18 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@purin_sanrio</span> : みなさん、こんばんは♪ POM POM NEWSの時間です！ 最近話題の「ポム主総会2021」の情報が、たった今入ってきました！ え、あのプリ丸が生で！？ ハラミちゃんも出演…！？ くわしくは、こちらからどうぞ☆  <span class="link">t.co/8</span> …
-                  <div class="date">Fri, 12 Feb 2021 12:06:43 GMT</div>
                 </div>
               
             
@@ -1902,7 +1902,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Sat, 13 Feb 2021 01:38:03 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sat, 13 Feb 2021 02:19:25 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
