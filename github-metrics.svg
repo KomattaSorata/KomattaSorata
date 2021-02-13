@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="934" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1027" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -899,28 +899,28 @@
             
               
                 <div class="tweet">
+                  RT  <span class="mention">@purin_sanrio</span> : なんかソワソワしちゃって寝られないから、今夜はキキくんとオンライントーク♪  <span class="link">t.co/yO0ZTF8ZGW</span> 
+                  <div class="date">Sat, 13 Feb 2021 12:01:54 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@HumansNoContext</span> :  <span class="link">t.co/qjpd5wR2ZQ</span> 
+                  <div class="date">Sat, 13 Feb 2021 11:59:58 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@Aoi_vrchat</span> : 【お塩報告】<br />先日のお気持ちで察した方もいるかもしれませんが、<br />本日をもって、パスタを茹でる際の塩を岩塩から海塩に変更することに決めました<br /><br />岩塩については全く非は無く、今後も肉等を焼く際には変わらず使用させていただくつもりです。誠に勝手ではござ…
+                  <div class="date">Sat, 13 Feb 2021 11:58:06 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@nal_333</span> : ラーメン屋にて、麺を全部食べ終わった後に起こるPDCAサイクル  <span class="link">t.co/AVoOp0Akua</span> 
+                  <div class="date">Sat, 13 Feb 2021 11:57:42 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   RT  <span class="mention">@TheRikeys</span> : I feel violated  <span class="link">t.co/JQsQHyKOBA</span> 
                   <div class="date">Sat, 13 Feb 2021 02:07:13 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@onitsuchi</span> : こちら工事中のホテルのように見えますが、そういうデザインのラブホテルなんです。<br />工事現場で致してみたかったんだよなという方は是非ご利用ください。  <span class="link">t.co/nsuf67VkIf</span> 
-                  <div class="date">Sat, 13 Feb 2021 02:06:19 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  ねむい、ねる
-                  <div class="date">Sat, 13 Feb 2021 02:04:30 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  うーんんんn
-                  <div class="date">Sat, 13 Feb 2021 02:04:24 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  あれ、予約したCDが発売日より4日くらい早めに来た
-                  <div class="date">Sat, 13 Feb 2021 01:23:31 GMT</div>
                 </div>
               
             
@@ -1902,7 +1902,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Sat, 13 Feb 2021 11:14:01 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sat, 13 Feb 2021 12:19:28 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
