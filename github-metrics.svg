@@ -899,6 +899,11 @@
             
               
                 <div class="tweet">
+                  4.0のストーリーは嫌いじゃないけどなんか、ちょっと足りない感じがする
+                  <div class="date">Sun, 14 Feb 2021 04:27:59 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   おわった。  <span class="link">t.co/9zRAle35br</span> 
                   <div class="date">Sun, 14 Feb 2021 04:14:45 GMT</div>
                 </div>
@@ -916,11 +921,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@shuumai</span> : まだ停電してほしい。
                   <div class="date">Sat, 13 Feb 2021 22:40:29 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@k_r_r_l_l_</span> : プレゼント  <span class="link">t.co/yqq1wXUVOd</span> 
-                  <div class="date">Sat, 13 Feb 2021 22:39:28 GMT</div>
                 </div>
               
             
@@ -1907,7 +1907,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Sun, 14 Feb 2021 04:18:18 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sun, 14 Feb 2021 05:14:46 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
