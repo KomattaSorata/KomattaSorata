@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="969" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="988" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -899,6 +899,16 @@
             
               
                 <div class="tweet">
+                  ドマ町へ行く聞いたら絶対イッセくんと再会するのとわかってた。<br />私知ってた。
+                  <div class="date">Mon, 15 Feb 2021 17:37:11 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  それはもちろんいきますよへへへへへへへへへへへへ  <span class="link">t.co/Hn1CNdz86T</span> 
+                  <div class="date">Mon, 15 Feb 2021 17:36:20 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   Ktkr  <span class="link">t.co/uHmEferlsZ</span> 
                   <div class="date">Mon, 15 Feb 2021 16:05:12 GMT</div>
                 </div>
@@ -911,16 +921,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@shuumai</span> : ﾓｬﾓｬえっち空間がいましたのでまじ偉い。
                   <div class="date">Mon, 15 Feb 2021 08:21:11 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  ボーダーが迫ってるといしきしながらやると意外と疲れるw  <span class="link">t.co/ItwIff5A9H</span> 
-                  <div class="date">Mon, 15 Feb 2021 07:21:41 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  表示をPBボーダーにしたらメンタル崩壊プレイになる((
-                  <div class="date">Mon, 15 Feb 2021 07:16:37 GMT</div>
                 </div>
               
             
@@ -1912,7 +1912,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Mon, 15 Feb 2021 17:26:01 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Mon, 15 Feb 2021 18:16:53 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
