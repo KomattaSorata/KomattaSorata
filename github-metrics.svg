@@ -899,6 +899,11 @@
             
               
                 <div class="tweet">
+                  この天気はつらい。。。
+                  <div class="date">Mon, 15 Feb 2021 03:46:57 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   雨の音が大きすぎで起きちゃった
                   <div class="date">Mon, 15 Feb 2021 02:47:27 GMT</div>
                 </div>
@@ -916,11 +921,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@fkfk_oftn</span> : 多分モブにもらったやつ  <span class="link">t.co/l1kXjWWn9v</span> 
                   <div class="date">Sun, 14 Feb 2021 19:31:16 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  お腹すいたああ
-                  <div class="date">Sun, 14 Feb 2021 16:49:01 GMT</div>
                 </div>
               
             
@@ -1912,7 +1912,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Mon, 15 Feb 2021 03:16:39 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Mon, 15 Feb 2021 04:18:11 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
