@@ -899,6 +899,21 @@
             
               
                 <div class="tweet">
+                  クエスト並べでもマッチ来ない((
+                  <div class="date">Tue, 16 Feb 2021 21:04:51 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  肉たべたい。
+                  <div class="date">Tue, 16 Feb 2021 20:59:44 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  I was in bed looking at the FF14 wiki and I got up and now I am in front of the computer again. I have a problem.
+                  <div class="date">Tue, 16 Feb 2021 20:42:12 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   RT  <span class="mention">@shuumai</span> : 胃が圧縮されてよかったです
                   <div class="date">Tue, 16 Feb 2021 19:14:06 GMT</div>
                 </div>
@@ -906,21 +921,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@kentax</span> : ふっと、降ってきたので例のでフリー素材作ってみた。<br />みんな見て欲しいよね？  <span class="link">t.co/QmWzw9GtEP</span> 
                   <div class="date">Tue, 16 Feb 2021 16:50:29 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  あっ  <span class="link">t.co/AFkasREFFD</span> 
-                  <div class="date">Tue, 16 Feb 2021 16:26:16 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@_flyte</span> : Dear Adobe. I can't stress enough on **HOW MUCH I HATE YOU**.
-                  <div class="date">Tue, 16 Feb 2021 15:17:54 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  片目が見えないなう
-                  <div class="date">Tue, 16 Feb 2021 12:51:41 GMT</div>
                 </div>
               
             
@@ -1917,7 +1917,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Tue, 16 Feb 2021 20:15:40 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Tue, 16 Feb 2021 21:13:14 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
