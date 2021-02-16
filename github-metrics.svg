@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="922" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="883" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -899,6 +899,16 @@
             
               
                 <div class="tweet">
+                  片目が見えないなう
+                  <div class="date">Tue, 16 Feb 2021 12:51:41 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  起きたらアレルギーがひどい
+                  <div class="date">Tue, 16 Feb 2021 12:51:34 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   メンテ明けまでちょっと仮眠
                   <div class="date">Tue, 16 Feb 2021 08:07:08 GMT</div>
                 </div>
@@ -911,16 +921,6 @@
                 <div class="tweet">
                   &gt;RT 特にモニカちゃんが好きなんですよ！！（棒）
                   <div class="date">Tue, 16 Feb 2021 05:11:03 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@kentax</span> : kawaiiオンナノコとのハートフルラブラブいちゃいちゃ、ちょっぴりえっちで感動storyだからオススメされた！！<br />（無料ってさっき知ってインスコした今度やります  <span class="link">t.co/jIP24WLVjD</span> 
-                  <div class="date">Tue, 16 Feb 2021 05:10:31 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  ゲームイベ？生放送？うーん🤔
-                  <div class="date">Tue, 16 Feb 2021 05:08:58 GMT</div>
                 </div>
               
             
@@ -1917,7 +1917,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Tue, 16 Feb 2021 12:19:52 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Tue, 16 Feb 2021 13:14:38 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
