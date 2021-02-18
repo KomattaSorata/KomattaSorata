@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="883" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="934" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -899,6 +899,16 @@
             
               
                 <div class="tweet">
+                  RT  <span class="mention">@mazekoze</span> : 正気か集英社。<br /><br />[『ぬ』のスタンプ(ボボボーボ・ボーボボ)]<br /> <span class="link">t.co/LXgWHqmisS</span>   <span class="link">t.co/jHwR4mSisM</span> 
+                  <div class="date">Thu, 18 Feb 2021 14:32:52 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                   <span class="hashtag">#nowplaying:</span>  ヒステリックナイトガール -Awakening- - PSYQUI, Such
+                  <div class="date">Thu, 18 Feb 2021 14:30:35 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   いまおきた
                   <div class="date">Thu, 18 Feb 2021 13:17:34 GMT</div>
                 </div>
@@ -911,16 +921,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@shuumai</span> : 結婚してんな！
                   <div class="date">Thu, 18 Feb 2021 00:10:30 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  でもあんまり寒くないからおkかも(？)
-                  <div class="date">Wed, 17 Feb 2021 23:28:00 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  ぱっと見ると7℃なのに外出たらあれ、3℃？？？（パーカーなう）
-                  <div class="date">Wed, 17 Feb 2021 23:27:46 GMT</div>
                 </div>
               
             
@@ -1927,7 +1927,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Thu, 18 Feb 2021 14:15:26 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Thu, 18 Feb 2021 15:14:47 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
