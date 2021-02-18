@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="912" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="880" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -899,28 +899,28 @@
             
               
                 <div class="tweet">
-                  I don’t play much esport titles because I am weak and I generally don’t like competitive gaming much. But I enjoy watching people swear without screaming, like to all clam esport stream that don’t rage.
-                  <div class="date">Thu, 18 Feb 2021 17:23:21 GMT</div>
+                   <span class="mention">@mecha_kun</span>  Don’t feel my weak. LOL
+                  <div class="date">Thu, 18 Feb 2021 17:34:55 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  ちょっと気に入ったアバター見つかったので起きたら買って導入するかも
-                  <div class="date">Thu, 18 Feb 2021 17:18:51 GMT</div>
+                   <span class="mention">@nekomoyac</span>  僕はえなかちゃん
+                  <div class="date">Thu, 18 Feb 2021 17:32:39 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  おやしゅみなちゃい
-                  <div class="date">Thu, 18 Feb 2021 17:18:26 GMT</div>
+                  ごめんめんご  <span class="link">t.co/x0AkvdqiIm</span> 
+                  <div class="date">Thu, 18 Feb 2021 17:31:55 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  ハム太郎欲しいかも
-                  <div class="date">Thu, 18 Feb 2021 17:10:21 GMT</div>
+                  やっば自信がないからこういうところに簡単に引っかかっちゃう((直さないと
+                  <div class="date">Thu, 18 Feb 2021 17:31:28 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  はぁ。。。  <span class="link">t.co/fdeB88oroO</span> 
-                  <div class="date">Thu, 18 Feb 2021 17:09:23 GMT</div>
+                  いらいらしちゃったから大きいな読み間違いしちゃった((恥ずかしい((ごめん
+                  <div class="date">Thu, 18 Feb 2021 17:30:42 GMT</div>
                 </div>
               
             
@@ -1927,7 +1927,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Thu, 18 Feb 2021 17:26:23 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Thu, 18 Feb 2021 18:16:50 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
