@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="903" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="922" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -899,6 +899,11 @@
             
               
                 <div class="tweet">
+                  あっ、28日のあれ、オンライン開催になったのか。。。まあ、買うものは買うから一緒だけど。。。
+                  <div class="date">Fri, 19 Feb 2021 08:49:17 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   アレルギーで起きちゃった（つらい）
                   <div class="date">Fri, 19 Feb 2021 06:23:18 GMT</div>
                 </div>
@@ -916,11 +921,6 @@
                 <div class="tweet">
                   RT  <span class="mention">@yaterakeita</span> : 今の日記です  <span class="link">t.co/blDETkvqbS</span> 
                   <div class="date">Fri, 19 Feb 2021 00:54:07 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@Kritter_sub</span> : おしっこ早く出て <span class="link">t.co/aVOgGuPd83</span> 
-                  <div class="date">Fri, 19 Feb 2021 00:28:08 GMT</div>
                 </div>
               
             
@@ -1897,7 +1897,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Fri, 19 Feb 2021 08:18:03 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Fri, 19 Feb 2021 09:16:03 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
