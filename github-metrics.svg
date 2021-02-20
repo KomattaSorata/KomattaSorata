@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="883" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1020" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -899,6 +899,21 @@
             
               
                 <div class="tweet">
+                  RT  <span class="mention">@dai2noyuyuta</span> : モ ル カ ― <br /> <span class="link">t.co/pmbrxtNrib</span>   <span class="link">t.co/C0nYQfc9Y5</span> 
+                  <div class="date">Sat, 20 Feb 2021 09:06:37 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  おはようございます
+                  <div class="date">Sat, 20 Feb 2021 09:04:16 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@pj_sekai</span> : 『ヒバナ -Reloaded-』Full ver.<br />Leo/need×初音ミク<br /><br />18:00よりプレミア公開中🎸<br /><br /> <span class="link">t.co/AwUcDMZbpR</span> <br /><br /> <span class="hashtag">#初音ミク</span>   <span class="hashtag">#プロセカ</span>   <span class="hashtag">#レオニ</span> 
+                  <div class="date">Sat, 20 Feb 2021 09:03:46 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   ねれない  <span class="link">t.co/m9yjEraene</span> 
                   <div class="date">Sat, 20 Feb 2021 05:10:51 GMT</div>
                 </div>
@@ -906,21 +921,6 @@
                 <div class="tweet">
                    <span class="mention">@nekomoyac</span>  おやすみ  <span class="link">t.co/ThtL9s1QS6</span> 
                   <div class="date">Sat, 20 Feb 2021 04:52:19 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  先週から体調悪い、アレルギーもひどい((睡眠の質が悪い
-                  <div class="date">Sat, 20 Feb 2021 04:50:27 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  頭痛いからおひるねたいむ
-                  <div class="date">Sat, 20 Feb 2021 04:49:50 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  奥歯よりちょい奥のとこが痛い、多分。。。親知らず。。。
-                  <div class="date">Sat, 20 Feb 2021 04:16:04 GMT</div>
                 </div>
               
             
@@ -1902,7 +1902,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Sat, 20 Feb 2021 08:17:43 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sat, 20 Feb 2021 09:15:45 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
