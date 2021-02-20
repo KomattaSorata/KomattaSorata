@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="969" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="918" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -899,6 +899,21 @@
             
               
                 <div class="tweet">
+                  あっ、もうこんな時期になったのか  <span class="link">t.co/wf2LbU2XUj</span> 
+                  <div class="date">Sat, 20 Feb 2021 16:26:42 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  RT  <span class="mention">@shuumai</span> : ( ぇgroup
+                  <div class="date">Sat, 20 Feb 2021 16:24:43 GMT</div>
+                </div>
+              
+                <div class="tweet">
+                  両手を開けて叫ぶんだ、かまってくださいって
+                  <div class="date">Sat, 20 Feb 2021 16:24:34 GMT</div>
+                </div>
+              
+                <div class="tweet">
                   RT  <span class="mention">@kanta_gw</span> : 洗モルにきたテディと飼い主  <span class="link">t.co/zhzNd8ZEjW</span> 
                   <div class="date">Sat, 20 Feb 2021 16:02:21 GMT</div>
                 </div>
@@ -906,21 +921,6 @@
                 <div class="tweet">
                   ログアウトするとき、足元にカチッと鳴ったから何と思ったら、<br /><br />私の脚でした。
                   <div class="date">Sat, 20 Feb 2021 15:03:48 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@purin_sanrio</span> : これで、明日はスッキリ起きれそう。おやすみ～☆  <span class="link">t.co/lWqmBQU31k</span> 
-                  <div class="date">Sat, 20 Feb 2021 13:04:13 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@shuumai</span> : ワイはずる
-                  <div class="date">Sat, 20 Feb 2021 13:03:00 GMT</div>
-                </div>
-              
-                <div class="tweet">
-                  RT  <span class="mention">@FF14_sokuhou</span> : 【FF14】イシュガルドハウジングエリアは果たして既存エリアを超える仕上がりになるのか否か : FF14速報　 <span class="hashtag">#FF14</span> <br /> <span class="link">t.co/h0Bf1rGKSE</span> 
-                  <div class="date">Sat, 20 Feb 2021 12:58:33 GMT</div>
                 </div>
               
             
@@ -1902,7 +1902,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Tokyo</span>
           
-          <span>Last updated Sat, 20 Feb 2021 16:23:35 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sat, 20 Feb 2021 17:25:25 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
